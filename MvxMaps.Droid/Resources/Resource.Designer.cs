@@ -382,6 +382,15 @@ namespace MvxMaps.Droid
 			// aapt resource value: 0x7f070001
 			public const int MvxBindingTagUnique = 2131165185;
 			
+			// aapt resource value: 0x7f070011
+			public const int NearButton = 2131165201;
+			
+			// aapt resource value: 0x7f070010
+			public const int RuteButton = 2131165200;
+			
+			// aapt resource value: 0x7f070012
+			public const int SearchButton = 2131165202;
+			
 			// aapt resource value: 0x7f070007
 			public const int adjust_height = 2131165191;
 			

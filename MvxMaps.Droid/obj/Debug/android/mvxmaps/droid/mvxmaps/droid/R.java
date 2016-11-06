@@ -355,6 +355,9 @@ containing a value of this type.
     public static final class id {
         public static final int MvvmCrossTagId=0x7f070000;
         public static final int MvxBindingTagUnique=0x7f070001;
+        public static final int NearButton=0x7f070011;
+        public static final int RuteButton=0x7f070010;
+        public static final int SearchButton=0x7f070012;
         public static final int adjust_height=0x7f070007;
         public static final int adjust_width=0x7f070008;
         public static final int auto=0x7f07000c;

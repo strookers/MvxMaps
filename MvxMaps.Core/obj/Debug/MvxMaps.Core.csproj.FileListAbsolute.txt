@@ -19,3 +19,7 @@ C:\Users\micha\Documents\Visual Studio 2015\Projects\MvxMaps\MvxMaps.Core\obj\De
 C:\Users\micha\Documents\Visual Studio 2015\Projects\MvxMaps\MvxMaps.Core\bin\Debug\MvxMaps.Core.dll.mdb
 C:\Users\micha\Documents\Visual Studio 2015\Projects\MvxMaps\MvxMaps.Core\obj\Debug\MvxMaps.Core.dll.mdb
 C:\Users\micha\Documents\Visual Studio 2015\Projects\MvxMaps\MvxMaps.Core\bin\Debug\MvxMaps.Core.dll.mdb
+C:\Users\micha\Documents\Visual Studio 2015\Projects\MvxMaps\MvxMaps.Core\obj\Debug\MvxMaps.Core.dll.mdb
+C:\Users\micha\Documents\Visual Studio 2015\Projects\MvxMaps\MvxMaps.Core\bin\Debug\MvxMaps.Core.dll.mdb
+C:\Users\micha\Documents\Visual Studio 2015\Projects\MvxMaps\MvxMaps.Core\obj\Debug\MvxMaps.Core.dll.mdb
+C:\Users\micha\Documents\Visual Studio 2015\Projects\MvxMaps\MvxMaps.Core\bin\Debug\MvxMaps.Core.dll.mdb

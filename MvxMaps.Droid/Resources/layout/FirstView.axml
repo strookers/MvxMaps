@@ -2,11 +2,43 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:local="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical"
-    android:layout_width="fill_parent"
-    android:layout_height="fill_parent">
-<fragment
+               
+   android:layout_gravity="bottom" 
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <fragment
         android:id="@+id/map"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         class="com.google.android.gms.maps.MapFragment" />
+  <Button
+    android:layout_weight="1"
+     android:text="Rute"
+     android:height="14dp"
+     android:textSize="15sp"
+     android:textColor="#ffffff"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:id="@+id/RuteButton"
+     android:layout_gravity="bottom" />
+  <Button
+   android:layout_weight="1"
+   android:text="Nær mig"
+   android:height="14dp"
+   android:textSize="15sp"
+   android:textColor="#ffffff"
+   android:layout_width="wrap_content"
+   android:layout_height="wrap_content"
+   android:id="@+id/NearButton"
+   android:layout_gravity="bottom" />
+  <Button
+   android:layout_weight="1"
+   android:text="Søg"
+   android:height="14dp"
+   android:textSize="15sp"
+   android:textColor="#ffffff"
+   android:layout_width="wrap_content"
+   android:layout_height="wrap_content"
+   android:id="@+id/SearchButton"
+   android:layout_gravity="bottom" />
 </LinearLayout>
