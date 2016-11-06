@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using System.Threading.Tasks;
 using MvvmCross.Core.ViewModels;
 using MvxMaps.Core.Models;
@@ -47,6 +48,13 @@ namespace MvxMaps.Core.ViewModels
                     Lng = 0.3
                 }
             };
+        }
+
+        public List<Models.Location> decodePolyPoints(GoogleDirectionClass objRoutes)
+        {
+            var result = _googleMapService.FnDecodePolylinePoints(objRoutes.routes[0].overview_polyline.points);
+
+            return result;
         }
 
         public async Task<GoogleDirectionClass> getIt()
