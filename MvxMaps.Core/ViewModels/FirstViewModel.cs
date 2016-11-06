@@ -1,10 +1,14 @@
+using System.Threading.Tasks;
 using MvvmCross.Core.ViewModels;
+using MvxMaps.Core.Models;
+using MvxMaps.Core.Services;
 
 namespace MvxMaps.Core.ViewModels
 {
     public class FirstViewModel
         : MvxViewModel
     {
+
         private Zombie _helen;
         public Zombie Helen
         {
@@ -19,8 +23,11 @@ namespace MvxMaps.Core.ViewModels
             set { _keith = value; RaisePropertyChanged(() => Keith); }
         }
 
-        public FirstViewModel()
+        private readonly IGoogleMapService _googleMapService;
+        public FirstViewModel(IGoogleMapService googleMapService)
         {
+            _googleMapService = googleMapService;
+            var g = getIt();
             Helen = new Zombie()
             {
                 Name = "Helen",
@@ -40,6 +47,13 @@ namespace MvxMaps.Core.ViewModels
                     Lng = 0.3
                 }
             };
+        }
+
+        public async Task<GoogleDirectionClass> getIt()
+        {
+            GoogleDirectionClass g = await _googleMapService.FnDrawPath("aalborg", "herning");
+            System.Diagnostics.Debug.WriteLine(g.routes.Count);
+            return g;
         }
 
         public IMvxCommand MoveCommand

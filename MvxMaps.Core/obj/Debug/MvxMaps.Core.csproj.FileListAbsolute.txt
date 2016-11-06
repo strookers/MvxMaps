@@ -6,13 +6,8 @@ C:\Users\micha\Documents\Visual Studio 2015\Projects\MvxMaps\MvxMaps.Core\bin\De
 C:\Users\micha\Documents\Visual Studio 2015\Projects\MvxMaps\MvxMaps.Core\bin\Debug\MvvmCross.Platform.dll
 C:\Users\micha\Documents\Visual Studio 2015\Projects\MvxMaps\MvxMaps.Core\obj\Debug\MvxMaps.Core.dll
 C:\Users\micha\Documents\Visual Studio 2015\Projects\MvxMaps\MvxMaps.Core\obj\Debug\MvxMaps.Core.pdb
-C:\Users\micha\Documents\Visual Studio 2015\Projects\MvxMaps\MvxMaps.Core\obj\Debug\MvxMaps.Core.dll.mdb
-C:\Users\micha\Documents\Visual Studio 2015\Projects\MvxMaps\MvxMaps.Core\bin\Debug\MvxMaps.Core.dll.mdb
-C:\Users\micha\Documents\Visual Studio 2015\Projects\MvxMaps\MvxMaps.Core\obj\Debug\MvxMaps.Core.dll.mdb
-C:\Users\micha\Documents\Visual Studio 2015\Projects\MvxMaps\MvxMaps.Core\bin\Debug\MvxMaps.Core.dll.mdb
-C:\Users\micha\Documents\Visual Studio 2015\Projects\MvxMaps\MvxMaps.Core\obj\Debug\MvxMaps.Core.dll.mdb
-C:\Users\micha\Documents\Visual Studio 2015\Projects\MvxMaps\MvxMaps.Core\bin\Debug\MvxMaps.Core.dll.mdb
-C:\Users\micha\Documents\Visual Studio 2015\Projects\MvxMaps\MvxMaps.Core\obj\Debug\MvxMaps.Core.dll.mdb
-C:\Users\micha\Documents\Visual Studio 2015\Projects\MvxMaps\MvxMaps.Core\bin\Debug\MvxMaps.Core.dll.mdb
+C:\Users\micha\Documents\Visual Studio 2015\Projects\MvxMaps\MvxMaps.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\micha\Documents\Visual Studio 2015\Projects\MvxMaps\MvxMaps.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\micha\Documents\Visual Studio 2015\Projects\MvxMaps\MvxMaps.Core\obj\Debug\MvxMaps.Core.csprojResolveAssemblyReference.cache
 C:\Users\micha\Documents\Visual Studio 2015\Projects\MvxMaps\MvxMaps.Core\obj\Debug\MvxMaps.Core.dll.mdb
 C:\Users\micha\Documents\Visual Studio 2015\Projects\MvxMaps\MvxMaps.Core\bin\Debug\MvxMaps.Core.dll.mdb

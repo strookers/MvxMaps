@@ -68,5 +68,7 @@ C:\Users\micha\Documents\Visual Studio 2015\Projects\MvxMaps\MvxMaps.Droid\obj\D
 C:\Users\micha\Documents\Visual Studio 2015\Projects\MvxMaps\MvxMaps.Droid\obj\Debug\res\layout\fifthview.xml
 C:\Users\micha\Documents\Visual Studio 2015\Projects\MvxMaps\MvxMaps.Droid\obj\Debug\res\layout\fourthview.xml
 C:\Users\micha\Documents\Visual Studio 2015\Projects\MvxMaps\MvxMaps.Droid\obj\Debug\res\layout\thirdview.xml
+C:\Users\micha\Documents\Visual Studio 2015\Projects\MvxMaps\MvxMaps.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\micha\Documents\Visual Studio 2015\Projects\MvxMaps\MvxMaps.Droid\bin\Debug\Newtonsoft.Json.xml
 C:\Users\micha\Documents\Visual Studio 2015\Projects\MvxMaps\MvxMaps.Droid\obj\Debug\MvxMaps.Droid.dll.mdb
 C:\Users\micha\Documents\Visual Studio 2015\Projects\MvxMaps\MvxMaps.Droid\bin\Debug\MvxMaps.Droid.dll.mdb
